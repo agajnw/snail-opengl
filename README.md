@@ -1,1 +1,1 @@
-Simple snail animation in OpenGL. (Jan 2014)
+Simple snail animation using OpenGL. (uni, Jan 2014)
